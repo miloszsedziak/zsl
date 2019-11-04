@@ -1,0 +1,17 @@
+table, th, td, tr {
+border: solid 1px black;
+padding: 5px;
+text-align: center;
+color: black;
+background-color: yellow;
+font-size: 50px;
+}
+
+
+.red{
+  background: red;
+}
+
+.blue
+{background: blue;
+}

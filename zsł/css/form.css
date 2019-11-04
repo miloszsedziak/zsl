@@ -1,0 +1,17 @@
+table, th, tr, td {
+  border: solid 3px black;
+  padding: 10px;
+  text-align: center;
+}
+
+th{
+  background-color: yellow;
+}
+
+tr{
+  background-color: pink;
+}
+
+body{
+  background-color: grey;
+}
